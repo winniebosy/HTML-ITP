@@ -1,0 +1,21 @@
+Topic: Introduction to the Web and HTML
+-The Web
+-Tools for Editing
+-HTML
+-URL's
+
+-The web is made of a collection of html docs along with other resources such as images. videos, programs and resources that intereact with these resource.
+-Web is a hypertext system. 
+-Hypertext is a form of text in which documents can refer or link to other documents and resources.
+-Web technology is build on the basic idea where documents and other data objects can link to each other in a standard way.
+-Hypertext is all about references and links.
+-html-hyper text markup language. The languagage that ptovides the structure and text of webpages.
+Abrowser gets web pages by communicating with servers over the internet.
+Servers are computers that habe programs running on them which answers a browser's request.
+
+Important Concepts in Programing:
+Syntax: Grammer rules of a computer language
+Formalism: computers take code literally, and willl only do exactly what you tell it to do.
+NeSING: BITS OF CODE GOING INSIDE OTHER BITS OF CODE IN AN ORDERLY WAY.
+
+
